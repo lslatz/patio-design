@@ -3,6 +3,10 @@
 **Location:** Boise, Idaho · South-facing home · USDA Hardiness Zone 7a (6b in harsh winters)  
 **Climate notes:** Hot, dry summers (90°F+); cold winters (down to 0–10°F); low humidity; alkaline soil typical; ~12 inches of annual rainfall
 
+> **Visual Diagrams:** See the [`visuals/`](visuals/) folder for design plan images.  
+> **Shopping Links:** See [`SHOPPING_LINKS.md`](SHOPPING_LINKS.md) for direct product links (Amazon, Home Depot, Lowe's, and more).  
+> **AI & Design Tools:** See [`AI_AND_DESIGN_TOOLS.md`](AI_AND_DESIGN_TOOLS.md) for AI image generators, landscape software, and garden planning apps to further visualize your project.
+
 ---
 
 ## Table of Contents
@@ -18,6 +22,8 @@
 ---
 
 ## 1. Back Covered Patio — Organization & Design
+
+> **See diagram:** [`visuals/01_back_patio_layout.png`](visuals/01_back_patio_layout.png) — Before vs. After layout plan
 
 ### What I See
 - A wooden privacy fence forming the backdrop.
@@ -67,6 +73,8 @@
 
 ## 2. Side Garden Beds — Improvements
 
+> **See diagram:** [`visuals/02_side_bed_planting_plan.png`](visuals/02_side_bed_planting_plan.png) — Cross-section layered planting design
+
 ### What I See
 - Narrow garden beds along the side of the house.
 - Existing plants appear mostly dormant; some perennials and possibly a few shrubs.
@@ -102,6 +110,8 @@ Since side beds are typically narrow (2–4 ft), use a **front-to-back layering*
 
 ## 3. Front Yard — Curb Appeal
 
+> **See diagram:** [`visuals/05_front_yard_plan.png`](visuals/05_front_yard_plan.png) — Bird's-eye view planting zone layout
+
 ### What I See
 - South-facing front = **full sun all day** (the hottest, brightest exposure).
 - Existing foundation plantings and lawn area.
@@ -128,6 +138,8 @@ Boise's dry climate makes water-wise landscaping both practical and attractive:
 ---
 
 ## 4. Flower & Plant Recommendations for Boise
+
+> **See diagram:** [`visuals/03_bloom_calendar.png`](visuals/03_bloom_calendar.png) — Visual bloom timeline March–October
 
 ### 🌸 Top Perennial Flowers (Come Back Every Year)
 
@@ -203,6 +215,8 @@ Boise's dry climate makes water-wise landscaping both practical and attractive:
 ---
 
 ## 6. Container Gardening Tips
+
+> **See diagram:** [`visuals/04_container_recipes.png`](visuals/04_container_recipes.png) — Three ready-to-plant container recipes
 
 Since you have a strong container collection, here's how to maximize it:
 
